@@ -1,0 +1,19 @@
+# Include your project-specific ignores in this file.
+# Read about how to use .gitignore:
+# https://help.github.com/articles/ignoring-files
+
+# Notes and various other sundries
+_notes/
+
+# General OS things
+.DS_Store
+
+# Text editor things
+.idea/**/*
+*.sublime-*
+
+# Logs
+*.log
+
+# Node
+node_modules/
